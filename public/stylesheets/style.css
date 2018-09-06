@@ -1,0 +1,205 @@
+#Bienvenue {
+
+  color: cyan;
+  background-color: FireBrick;
+  border: 1px solid black;
+  height: 100px;
+  font-size: 40px;
+  padding-top: 23px;
+}
+
+#citation {
+
+	font-size: 20px;
+	padding-top: 23px;
+	padding-left: 1100px;
+}
+
+#Inscrip {
+	
+  color: greenyellow;
+  text-decoration: underline;
+  margin-top: 0px;
+  margin-left: 100px; 
+  font-size: 30px;
+}
+
+#body2 {
+
+	background: url(https://www.jiovanni.fr/wp-content/uploads/2016/02/cave-a-vin-6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#Username, #Password {
+
+	color: Lime;
+	font-size: 30px;
+	margin-left: 200px;
+}
+
+#username, #password {
+
+	display: block;
+	width: 200px;
+	height: 30px;
+	margin-left: 200px;
+}
+
+#bouton, #bouton4 {
+
+	margin-left: 550px;
+	height: 50px;
+	width: 100px;
+}
+
+#popup, #popupp {
+
+	padding-top: 20px;
+	color: red;
+	font-size: 30px;
+}
+
+/*------------------------------------------page 2---------------------------------------*/
+
+#presentation {
+
+	color: #27a8a8;
+}
+
+#ListeVins {
+
+	background: url(https://png.pngtree.com/element_origin_min_pic/17/09/13/faa8f411be998444d354064f7f08760f.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#form {
+
+	display: inline-block;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+#titre1 {
+
+	font-size: 80px;
+	color: orange;
+}
+
+#titre2 {
+
+	font-size: 100px;
+	color: orange;
+}
+
+#Bouteille1 {
+
+	margin-left: 500px;
+	display: block;
+	width: 200px;
+	height: 30px;
+}
+
+#Annee1, #Pays1, #Prix1, #Quantite1 {
+
+	margin-left: 10px;
+	display: block;
+	width: 200px;
+	height: 30px;
+}
+
+#Bouteille {
+
+	margin-left: 370px;
+	color: #ff00ff;
+}
+
+#Annee, #Pays, #Prix, #Quantite, #Retirer{
+
+	margin-left: 10px;
+	color: #ff00ff;
+}
+
+#bouton1 {
+
+	display: block;
+}
+
+
+#ajout {
+
+	font-size: 60px;
+}
+
+#Modification {
+
+	display: inline-block;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+#Bouteille2 {
+
+	margin-left: 270px;
+	color: #ff00ff;
+}
+
+#bouton1, #bouton2, #bouton3 {
+
+	margin-top: 10px;
+}
+
+#Annee2, #Pays2, #Prix2, #Quantite2, #Modifier{
+
+	margin-left: 10px;
+	color: #ff00ff;
+}
+
+#modif {
+
+	font-size: 30px;
+	padding-top: 60px;
+}
+
+#add {
+
+	font-size: 30px;
+	padding-top: 70px;
+}
+
+#page2 {
+
+	padding-top: 40px;
+}
+
+/*------------------------------------------page 3---------------------------------------*/
+
+#ChuckNorris {
+
+	background: url(https://www.howtogeek.com/wp-content/uploads/2012/12/Plain-Black-Wallpaper.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#absent {
+
+	background: url(https://img.maxisciences.com/article/international/les-anonymous-ont-diffuse-un-guide-expliquant-comment-coutourner-une-eventuelle-coupure-d-internet-a-gaza-dr_d78d4bcea69130fe60c350d9f4013536d573ba08.jpg);
+	color: orange;
+	display: inline-block;
+	padding-bottom: 700px;
+	background-repeat: no-repeat;
+	width: 41%;
+	font-size: 50px;
+}
+
+#touriste {
+
+	background: url(https://www.tous-les-heros.com/fr/blog/wp-content/uploads/2016/02/fond-ecran-minions3.jpg);
+	color: orange;
+	background-repeat: no-repeat;
+	display: inline-block;
+	padding-bottom: 700px;
+	font-size: 60px;
+	width: 60%;
+}
